@@ -1,6 +1,7 @@
 # Lazy DM Prep
 
 A PWA in progress that uses (as of now):
+- [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [Lit](https://lit.dev/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
