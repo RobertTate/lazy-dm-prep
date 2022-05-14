@@ -1,0 +1,23 @@
+{
+  "name": "lazydmprep",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A PWA Tool for Dungeon Masters to Prepare their Game Sessions",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.24",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.2"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.1",
+    "dexie": "^3.2.1",
+    "lit": "^2.2.2",
+    "pwa-helpers": "^0.9.1",
+    "workbox-window": "^6.5.3"
+  }
+}
